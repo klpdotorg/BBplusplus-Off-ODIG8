@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "900599933874",
+    "project_id": "bbplusplus-grade-7and8",
+    "storage_bucket": "bbplusplus-grade-7and8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900599933874:android:61504e2231da606eb7d2ab",
+        "android_client_info": {
+          "package_name": "com.akshara.BBplusplusOffEngG8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSH06Uf0QQRtWrgXlD6v3TzYn-uqKx3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900599933874:android:c2aff091657aaffab7d2ab",
+        "android_client_info": {
+          "package_name": "com.akshara.BBplusplusOffHinG8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSH06Uf0QQRtWrgXlD6v3TzYn-uqKx3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900599933874:android:fa5094ed8328880cb7d2ab",
+        "android_client_info": {
+          "package_name": "com.akshara.BBplusplusOffKanG8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSH06Uf0QQRtWrgXlD6v3TzYn-uqKx3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900599933874:android:5ecedf10ffcc8576b7d2ab",
+        "android_client_info": {
+          "package_name": "com.akshara.BBplusplusOffMarG8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSH06Uf0QQRtWrgXlD6v3TzYn-uqKx3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900599933874:android:09f3f8e8bb7b1403b7d2ab",
+        "android_client_info": {
+          "package_name": "com.akshara.BBplusplusOffOdiG8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSH06Uf0QQRtWrgXlD6v3TzYn-uqKx3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900599933874:android:bf9d098f1a4210a7b7d2ab",
+        "android_client_info": {
+          "package_name": "com.akshara.BBplusplusOffTamG8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSH06Uf0QQRtWrgXlD6v3TzYn-uqKx3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

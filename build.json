@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "odibbplusplusg8.jks",
+            "storePassword": "odibbplusplusg8",
+            "alias": "odibbplusplusg8",
+            "password": "odibbplusplusg8",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "odibbplusplusg8.jks",
+            "storePassword": "odibbplusplusg8",
+            "alias": "odibbplusplusg8",
+            "password": "odibbplusplusg8",
+            "keystoreType": "jks"
+        }
+    }
+}
