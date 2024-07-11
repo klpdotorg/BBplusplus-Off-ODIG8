@@ -58,7 +58,7 @@ Game.appLoginEditScreen.prototype = {
 
 		if (_this.user.language == "English") {
 			_this.fileCheck = [
-				[_this.basePath + "questionSounds/ALAS-01-G6/English", _this.user.language + "/EnglishquestionSounds.zip"],//ENG
+				[_this.basePath + "questionSounds/AL-DIV-G8/English", _this.user.language + "/EnglishquestionSounds.zip"],//ENG
 				[_this.basePath + "assets/commonAssets", "Assets1.zip"],
 				[_this.basePath + "assets/demoVideos", "Assets2.zip"],
 				// [_this.basePath + "assets/exitAssets", _this.user.language ) + "/Assets3.zip"],
@@ -69,7 +69,7 @@ Game.appLoginEditScreen.prototype = {
 		}
 		else if (_this.user.language == "Hindi") {
 			_this.fileCheck = [
-				[_this.basePath + "questionSounds/ALAS-01-G6/Hindi", _this.user.language + "/HINquestionSounds.zip"],
+				[_this.basePath + "questionSounds/AL-DIV-G8/Hindi", _this.user.language + "/HindiquestionSounds.zip"],
 				[_this.basePath + "assets/commonAssets", "Assets1.zip"],
 				[_this.basePath + "assets/demoVideos", "Assets2.zip"],
 				// [_this.basePath + "assets/exitAssets", _this.user.language ) + "/Assets3.zip"],
@@ -80,7 +80,7 @@ Game.appLoginEditScreen.prototype = {
 		}
 		else if (_this.user.language == "Kannada") {
 			_this.fileCheck = [
-				[_this.basePath + "questionSounds/ALAS-01-G6/Kannada", _this.user.language + "/KANquestionSounds.zip"],
+				[_this.basePath + "questionSounds/AL-DIV-G8/Kannada", _this.user.language + "/KannadaquestionSounds.zip"],
 				[_this.basePath + "assets/commonAssets", "Assets1.zip"],
 				[_this.basePath + "assets/demoVideos", "Assets2.zip"],
 				// [_this.basePath + "assets/exitAssets", _this.user.language ) + "/Assets3.zip"],
@@ -91,7 +91,7 @@ Game.appLoginEditScreen.prototype = {
 		}
 		else if (_this.user.language == "Odiya") {
 			_this.fileCheck = [
-				[_this.basePath + "questionSounds/ALAS-01-G6/Odiya", _this.user.language + "/ODIquestionSounds.zip"],
+				[_this.basePath + "questionSounds/AL-DIV-G8/Odiya", _this.user.language + "/OdiyaquestionSounds.zip"],
 				[_this.basePath + "assets/commonAssets", "Assets1.zip"],
 				[_this.basePath + "assets/demoVideos", "Assets2.zip"],
 				// [_this.basePath + "assets/exitAssets", _this.user.language ) + "/Assets3.zip"],
@@ -100,13 +100,10 @@ Game.appLoginEditScreen.prototype = {
 				[_this.basePath + "sounds", "sounds.zip"]
 			];
 		}
-		// else if(_this.user.language == "Gujarati")
-		// {
-
-		// }
+	
 		else if (_this.user.language == "Marathi") {
 			_this.fileCheck = [
-				[_this.basePath + "questionSounds/ALAS-01-G6/Marathi", _this.user.language + "/MARquestionSounds.zip"],
+				[_this.basePath + "questionSounds/AL-DIV-G8/Marathi", _this.user.language + "/MarathiquestionSounds.zip"],
 				[_this.basePath + "assets/commonAssets", "Assets1.zip"],
 				[_this.basePath + "assets/demoVideos", "Assets2.zip"],
 				// [_this.basePath + "assets/exitAssets", _this.user.language ) + "/Assets3.zip"],
@@ -115,10 +112,7 @@ Game.appLoginEditScreen.prototype = {
 				[_this.basePath + "sounds", "sounds.zip"]
 			];
 		}
-		// else if(_this.user.language == "Telugu")
-		// {
-
-		// }
+	
 		else if (_this.user.language == "Tamil") {
 			_this.fileCheck = [
 				[_this.basePath + "questionSounds/AL-DIV-G8/Tamil", _this.user.language + "/TamilquestionSounds.zip"],
@@ -130,21 +124,6 @@ Game.appLoginEditScreen.prototype = {
 				[_this.basePath + "sounds", "sounds.zip"]
 			];
 		}
-		// else if(_this.user.language == "Urdu")
-		// {
-		// 	_this.fileCheck = [
-		// 	[_this.basePath+"questionSounds/1.1A/Urdu","Urdu.zip"],
-		// 	[_this.basePath+"assets/commonAssets","Assets1.zip"],
-		// 	[_this.basePath+"assets/demoVideos","Assets2.zip"],
-		// 	[_this.basePath+"assets/conversion","Assets3.zip"],
-		// 	[_this.basePath+"assets/questionSounds/shoppingGame","Assets4.zip"],
-		// 	[_this.basePath+"assets/gradeAssets/4.1","Assets5.zip"],
-		// 	[_this.basePath+"assets/gradeAssets/6.1","Assets6.zip"],
-		// 	[_this.basePath+"assets/DH1","Assets6New.zip"],
-		// 	[_this.basePath+"assets/AddNew","Assets16.zip"]
-		// 	];	
-		// }
-
 
 		_this.splash = game.add.sprite(game.world.centerX, game.world.centerY, 'registrationbg');
 		_this.splash.scale.setTo(1);
